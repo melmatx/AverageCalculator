@@ -1,0 +1,6 @@
+com/example/averagecalculator/MainActivity.java
+ com.example.averagecalculator.MainActivity
+com/example/averagecalculator/BuildConfig.java
+ com.example.averagecalculator.BuildConfig
+com/example/averagecalculator/GradesActivity.java
+ com.example.averagecalculator.GradesActivity

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/font_comfortaa_light.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/font/comfortaa_light.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/font_comfortaa.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/font/comfortaa.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable_button_bg.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/font_comfortaa_bold.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/font/comfortaa_bold.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/layout_activity_grades.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/layout/activity_grades.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.example.averagecalculator.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.averagecalculator.app-pngs-14:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.averagecalculator.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.averagecalculator.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
