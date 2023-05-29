@@ -1,5 +1,5 @@
 # AverageCalculator
-Android app to compute averages of subjects with presets.
+Android App to show averages of subjects with presets.
 
 ## Screenshots
 
