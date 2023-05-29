@@ -3,6 +3,8 @@ Android App to show averages of subjects with presets.
 
 [Check out the Desktop Version](https://github.com/melmatx/AverageCalculator-App)
 
+[If you dont like GUI, check out the Console version](https://github.com/melmatx/AverageCalculator-Console)
+
 ## Screenshots
 
 Dark Mode:
