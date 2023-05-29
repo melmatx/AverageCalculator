@@ -7,15 +7,15 @@
 7    <uses-sdk
 8        android:minSdkVersion="16"
 8-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="30" />
+9        android:targetSdkVersion="33" />
 9-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:5:5-27:19
+11-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:5:5-29:19
 12        android:allowBackup="true"
 12-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0] /Users/melmathewpalana/.gradle/caches/transforms-3/5c5e8dce9a0ed12f290ac39851d18ca8/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.5.0] /Users/melmathewpalana/.gradle/caches/transforms-3/1c6bf066d86cb24cdbec24ff431f26f8/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:7:9-43
@@ -35,27 +35,30 @@
 23            android:windowSoftInputMode="stateHidden" >
 23-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:14:13-54
 24        </activity>
-25        <activity android:name="com.example.averagecalculator.MainActivity" >
-25-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:16:9-22:20
-25-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:16:19-47
-26            <intent-filter>
-26-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:17:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:18:17-69
-27-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:18:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:20:17-77
-29-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
-32
-33        <meta-data
-33-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:24:9-26:57
-34            android:name="preloaded_fonts"
-34-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:25:13-43
-35            android:resource="@array/preloaded_fonts" />
-35-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:26:13-54
-36    </application>
-37
-38</manifest>
+25        <activity
+25-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:16:9-24:20
+26            android:name="com.example.averagecalculator.MainActivity"
+26-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:17:13-41
+27            android:exported="true" >
+27-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:18:13-36
+28            <intent-filter>
+28-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:20:17-69
+29-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:22:17-77
+31-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <meta-data
+35-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:26:9-28:57
+36            android:name="preloaded_fonts"
+36-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:27:13-43
+37            android:resource="@array/preloaded_fonts" />
+37-->/Users/melmathewpalana/AndroidStudioProjects/AverageCalculator/app/src/main/AndroidManifest.xml:28:13-54
+38    </application>
+39
+40</manifest>

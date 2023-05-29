@@ -4,7 +4,17 @@
             "outputFile": "com.example.averagecalculator.app-mergeDebugResources-17:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/9ba762e3720988921996ee3c595b8117/transformed/appcompat-1.3.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/1c6bf066d86cb24cdbec24ff431f26f8/transformed/core-1.5.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/33c9692ec212d129fc327a42a91ce4a3/transformed/appcompat-1.3.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/melmathewpalana/.gradle/caches/transforms-3/5c5e8dce9a0ed12f290ac39851d18ca8/transformed/core-1.5.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

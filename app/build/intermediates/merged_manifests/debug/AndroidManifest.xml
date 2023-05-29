@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="33" />
 
     <application
         android:allowBackup="true"
@@ -22,7 +22,9 @@
             android:name="com.example.averagecalculator.GradesActivity"
             android:windowSoftInputMode="stateHidden" >
         </activity>
-        <activity android:name="com.example.averagecalculator.MainActivity" >
+        <activity
+            android:name="com.example.averagecalculator.MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
